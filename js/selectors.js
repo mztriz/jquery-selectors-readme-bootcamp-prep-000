@@ -1,1 +1,3 @@
-console.log($('img'));
+function paragraphSelector() {
+  return $('p')
+}
