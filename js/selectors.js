@@ -13,3 +13,7 @@ function ninjaBabySelector(){
 function divSelector(){
   return $('div')
 }
+
+function firstListItem(){
+  $('ul li:first')
+}
